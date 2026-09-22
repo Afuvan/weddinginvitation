@@ -1,0 +1,6 @@
+{
+  "name": "Suhail & Sana - Muslim Wedding Invitation",
+  "description": "An elegant, customizable Muslim wedding invitation website for Suhail & Sana featuring minimal luxury maroon, cream, and gold aesthetics, interactive scratch-to-reveal date, schedule, gift registry & banking details with secure copy-to-clipboard, countdown, and live customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
